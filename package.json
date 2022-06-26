@@ -1,0 +1,32 @@
+{
+  "name": "textnodejv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nguyenminhtuan238/nodejstext.git"
+  },
+  "keywords": [
+    "text",
+    "lamthu",
+    "nodejs"
+  ],
+  "author": "minhtuan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nguyenminhtuan238/nodejstext/issues"
+  },
+  "homepage": "https://github.com/nguyenminhtuan238/nodejstext#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "install": "^0.13.0",
+    "nodemon": "^2.0.18"
+  }
+}
